@@ -1,6 +1,6 @@
 # ACM_ISL_LEO_Const
 #To run the simulation, run sim_final.m 
- 
+# It takes about 3568.852995 seconds, 1 hour approximately.
 
 The scripts simulate Adaptive Coding and Modulation between two LowEarth  Orbit  satellites  in  the following inter-satellite  linkcommunication:
 -Walker-star intra-plan link.
