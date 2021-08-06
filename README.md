@@ -22,5 +22,5 @@ Additionally the time t has to be specified.
 The outputs of the algorithm are the Cartesian position and velocity vectors r and v.
 
 some notations:
--the simulation is made of 291 step, from 0 upt to 290 with 10s increment each. At each step, 50,000 bits are transmitted from one satellite to the other one.
+-the simulation is made of 291 step, from 0 upt to 290 with 10s increment each. At each step, 50,000 bits are transmitted from one satellite another one.
 -At first iteration, a conservative choice of modulation and coding with Hamming(64,57) and BPSK. 
